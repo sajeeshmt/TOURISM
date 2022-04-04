@@ -15,7 +15,7 @@ body, html {
   
   .bg-img {
     /* The image used */
-    background-image: url(/images/login.jpg);
+    background-image: url(../images/login.jpg);
   
     /* Control the height of the image */
     min-height: 480px;
@@ -67,7 +67,7 @@ body, html {
   }
   .bg-img1 {
     /* The image used */
-    background-image: url(/images/signup.jpg);
+    background-image: url(../images/signup.jpg);
   
     /* Control the height of the image */
     min-height: 600px;
@@ -91,7 +91,7 @@ body, html {
       background-repeat: no-repeat;
       background-size:cover;
       position:relative;
-      background-image: url("../images/kozhikode.jpg");
+      background-image: url(../images/kozhikode.jpg);
       min-height: 480px;
   }
  
